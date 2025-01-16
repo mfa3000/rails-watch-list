@@ -63,6 +63,5 @@ end
 gem 'rspec-rails', group: [ :test ]
 gem 'rails-controller-testing', group: [ :test ]
 
-gem "bootstrap", "~> 5.2"
 gem "autoprefixer-rails"
 gem "simple_form"
